@@ -1,0 +1,6 @@
+{
+  "name": "Level Up: Shinobi Training System",
+  "description": "Premium Naruto-themed mobile fitness and shinobi progression app with real-time step counter, AI food scanner, and taijutsu workout logger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
